@@ -8,7 +8,7 @@
 
 ## Как подключить внешний модуль?
 Просто подключите ваш модуль проводами мама-папа как показано на рисунках.
-
+Для переключения на внешний радиомодуль перейдите в `меню -> Sub-GHz -> Radio Settings` и выберите `Module -> External`
 
 | Flipper Zero  | СС1101        |
 | ------------- |:-------------:| 
@@ -20,7 +20,7 @@
 | 9 | VCC | 
 | 11 | GND | 
 
-![cc1101 blue](https://user-images.githubusercontent.com/10090793/216717733-8b48daef-86a9-4fe4-bd9a-96350c835e3f.png)
-![cc1101 green](https://user-images.githubusercontent.com/10090793/216717931-77b1c72a-8bd6-481e-acf1-243eaf63ffb7.png)
-![cc1101 blue 8](https://user-images.githubusercontent.com/10090793/216718023-d1e4aef2-6626-4ad2-b9b9-afedd2c5255a.png)
+![cc1101 blue](https://user-images.githubusercontent.com/10090793/216795803-31a787c6-a19b-4368-8fcb-68438207683b.png)
+![cc1101 green](https://user-images.githubusercontent.com/10090793/216795805-93b9b2ee-085f-4f46-858c-2efcdfff2e2a.png)
+![cc1101 blue 8](https://user-images.githubusercontent.com/10090793/216795737-65926863-372f-437b-8269-5b20ffd60751.png)
 
